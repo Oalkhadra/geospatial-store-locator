@@ -4,8 +4,9 @@
 This application allows you to find the nearest stores to a given location by entering latitude and longitude coordinates. The app will display the results on an interactive map and in a sortable table, which can also be exported as a CSV file.
 
 ## Requirements
+- Windows PC
+- Internet Connection
 - Python 3.7 or higher (installation guide below)
-- Necessary libraries included in requirements.txt
 
 ## Installation Instructions
 
