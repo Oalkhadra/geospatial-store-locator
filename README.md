@@ -98,4 +98,4 @@ This application allows you to find the nearest stores to a given location by en
 3. Make sure the coordinates you entered are valid
 
 ## Support
-If you continue to experience issues with the application, please contact [Your Name/Support Email] for assistance.
+If you continue to experience issues with the application, please contact alkhadra@usc.edu for assistance.
